@@ -1,7 +1,7 @@
 # Aplikasi-jadwal-pelajaran-dan-pengingat-tugas
 Untuk membantu siswa/mahasiswa mengingat jadwal dan tugas
 
-#nama proyek:aplikasi pengingat jadwal pelajaran dan pengingat tugas
+#nama proyek: Aplikasi pengingat jadwal pelajaran dan pengingat tugas
 
 # Anggota kelompok
 - Adelia kusuma dewi

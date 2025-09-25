@@ -3,7 +3,7 @@ Untuk membantu siswa/mahasiswa mengingat jadwal dan tugas
 
 #nama proyek: Aplikasi pengingat jadwal pelajaran dan pengingat tugas
 
-# Anggota kelompok
+# Anggota kelompok 02
 - Adelia kusuma dewi
 - Anisa putri savira
 - Egy nugraha
